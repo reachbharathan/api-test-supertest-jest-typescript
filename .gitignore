@@ -1,0 +1,8 @@
+node_modules/
+dist/
+
+
+.idea/
+
+#html report folder
+html-report/report.html

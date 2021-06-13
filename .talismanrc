@@ -1,0 +1,7 @@
+fileignoreconfig:
+- filename: __tests__/__dependency_tests__/helpers/setup.ts
+  checksum: ad00c1dc16f0e0802f429fad5678158f92a44d08551707631754aaa001361b4d
+- filename: package-lock.json
+  checksum: 5654539e60dbb38220dd7b1ab9bcb6b8573bbee0f87630ce39850e030f47837d
+- filename: src/config/trinax-loyalty-platform-config.ts
+  checksum: e56146d58ad0645c6bbc589dbba7a129c71d4a98976966f56ebd9902a5ccfad2
